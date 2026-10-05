@@ -36,3 +36,7 @@ After a Vite + React + TypeScript app is added, install and run it with the scri
 ## License
 
 MIT. See `LICENSE`.
+
+## Status
+
+Setup phase complete. Project work starts in later weeks.
